@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_hint">2892 W King Edward Ave, Vancouver, BC V6L...</string>
+</resources>
